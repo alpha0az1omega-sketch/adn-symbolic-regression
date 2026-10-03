@@ -1,5 +1,6 @@
 # ADN — Symbolic Regression on Android
 
+![Animated demo](assets/demo.svg)
 A minimal symbolic regression engine that runs on a smartphone.
 No PyTorch. No GPU. No cloud. Just NumPy.
 
@@ -20,3 +21,4 @@ data alone, on a phone, in 11 milliseconds.
 **alpha0az1omega**
 
 Built on Termux, Android.
+Add animated demo to README
